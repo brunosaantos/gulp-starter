@@ -1,0 +1,15 @@
+{
+  "name": "gulp-starter",
+  "version": "0.0.1",
+  "description": "Simple gulp starter",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1"
+  }
+}
