@@ -1,0 +1,131 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-arrow637 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -512px 0px;
+  width: 512px;
+  height: 512px;
+}
+.icon-check box {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1536px -512px;
+  width: 512px;
+  height: 512px;
+}
+.icon-circle109 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: 0px -512px;
+  width: 512px;
+  height: 512px;
+}
+.icon-cross102 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -512px -512px;
+  width: 512px;
+  height: 512px;
+}
+.icon-cross103 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1024px 0px;
+  width: 512px;
+  height: 512px;
+}
+.icon-gps29 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1024px -512px;
+  width: 512px;
+  height: 512px;
+}
+.icon-heart298 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: 0px -1024px;
+  width: 512px;
+  height: 512px;
+}
+.icon-heart299 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -512px -1024px;
+  width: 512px;
+  height: 512px;
+}
+.icon-landslide3 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1024px -1024px;
+  width: 512px;
+  height: 512px;
+}
+.icon-log in {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1536px 0px;
+  width: 512px;
+  height: 512px;
+}
+.icon-no entry {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: 0px 0px;
+  width: 512px;
+  height: 512px;
+}
+.icon-peace9 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1536px -1024px;
+  width: 512px;
+  height: 512px;
+}
+.icon-pin56 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: 0px -1536px;
+  width: 512px;
+  height: 512px;
+}
+.icon-plus81 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -512px -1536px;
+  width: 512px;
+  height: 512px;
+}
+.icon-square185 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1024px -1536px;
+  width: 512px;
+  height: 512px;
+}
+.icon-star175 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -1536px -1536px;
+  width: 512px;
+  height: 512px;
+}
+.icon-star176 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -2048px 0px;
+  width: 512px;
+  height: 512px;
+}
+.icon-star177 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -2048px -512px;
+  width: 512px;
+  height: 512px;
+}
+.icon-sun91 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -2048px -1024px;
+  width: 512px;
+  height: 512px;
+}
+.icon-triangle36 {
+  background-image: url(.././../img/sprites/sprite-icons.png);
+  background-position: -2048px -1536px;
+  width: 512px;
+  height: 512px;
+}
