@@ -10,7 +10,7 @@ var path = {
     css: "./../src/stylus/"
   },
   dist: {
-    html: "./../dist/html/",
+    html: "./../dist/",
     js: "./../dist/js/",
     img: {
       icons: {
