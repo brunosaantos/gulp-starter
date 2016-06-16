@@ -7,7 +7,7 @@ var path = {
         png: './../src/img/icons/png/'
       }
     },
-    css: "./../src/stylus/"
+    css: "./../src/css/"
   },
   dist: {
     html: "./../dist/",
